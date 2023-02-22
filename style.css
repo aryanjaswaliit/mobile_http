@@ -70,3 +70,53 @@
     margin-left:-100px;
     margin-top:10%;
 }
+
+
+.latest_exam{
+    width: 100vw;
+    
+    background-color: black;
+}
+.latest_exam_title{
+    color:white;
+    font-size:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.latest_exam_box{
+    margin-top:20px;
+    width:100vw;
+    
+}
+.latest_exam_box_box{
+    border-radius: 100px;
+    background-color: white;
+    color:black;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.latest_exam_box_box_img{
+    border-radius: 100px;
+}
+.latest_exam_box_box_name{
+    position: relative;
+    top:-20px;
+    font-weight: 900;
+    left:30px;
+
+}
+.latest_exam_box_box_quli{
+    position: relative;
+    top:-20px;
+    left:10vw;
+    font-weight: 200;
+}
+
+.latest_exam_box_box_date{
+    font-size:15px;
+    color:blue;
+    position: relative;
+    top:-20px;
+    left:20vw;
+}
