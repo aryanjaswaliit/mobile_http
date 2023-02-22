@@ -1,0 +1,45 @@
+
+<br>
+  <div id="container" style="width:100vw;height: 40vh;"></div>
+
+
+  <script>
+
+  anychart.onDocumentReady(function () {
+    anychart.data.loadJsonFile('new_12.json', function (data) {
+
+      // create a chart from the loaded data
+      var chart = anychart.graph(data);
+
+      // set the title
+      //chart.title('Network Graph showing the battles in Game of Thrones');
+        chart.background("#46CCFE");
+        chart.background("black");
+      // access nodes
+      var nodes = chart.nodes();
+
+      // set the size of nodes
+      nodes.normal().height(300);
+      nodes.hovered().height(45);
+      nodes.selected().height(45);
+
+      // set the stroke of nodes
+      nodes.normal().stroke(null);
+      nodes.hovered().stroke('#333333', 20);
+      nodes.selected().stroke('#333333', 20);
+
+      // enable the labels of nodes
+      chart.nodes().labels().enabled(true);
+
+      // configure the labels of nodes
+      chart.nodes().labels().format('{%id}');
+      chart.nodes().labels().fontSize(25);
+      chart.nodes().labels().fontWeight(900);
+
+      // draw the chart
+      chart.container('container').draw();
+
+    });
+  });
+
+</script>

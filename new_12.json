@@ -1,0 +1,93 @@
+{
+    "nodes": [{"id": 12, "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1Y_K0BGWhJEwj1_LMItxh3EgkYl_a6MGG?authuser=0"}}, {"id": "UCEED", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1wqy1JvfXpUnDnmbFhT_ZeMThvPbD7SXf?authuser=0"}}, {"id": "TISS-BAT", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1F3MreM1S8XceqVlcD3uGL2Rd9VcN_fCT?authuser=0"}}, {"id": "NIFT", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1J0-qp70n8ANtiV1FZ9vlj3XYXW_Ev5ny?authuser=0"}}, {"id": "NID", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1_y7C4ZyxF1z0JkKw9qrStlD5EzroFIgK?authuser=0"}}, {"id": "NEST", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1UyjDZj1MqPoGTWGbhWpi9lkidptCp5Hb?authuser=0"}}, {"id": "NEET", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/11TNbv8hlXgVYJlFi6cWYQMUnHZvRIuda?authuser=0"}}, {"id": "NDA", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1q0RrVlQZEBSmbUbXPZi-wcARfrlxuyG4?authuser=0"}}, {"id": "NCHMCT JEE", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/10AzKsF8NIIzlrDkCFoMi6agTTcEYyXbb?authuser=0"}}, {"id": "NATA", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1QCPoOXdrsaAaL2vO-7HGw5ckd1hi0KUY?authuser=0"}}, {"id": "JEE MAIN", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1qXwsY6-XyVtVwEYZ2hAT6QZJPJEHdQAS?authuser=0"}}, {"id": "IPMAT", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1BJPmcnIxUPKnPfHsrshctcLRVivTefoE?authuser=0"}}, {"id": "Indian Statistical Institute Admission", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1sUp6eX4VwdtC-ln6FHgBXUxrnP7i60-n?authuser=0"}}, {"id": "Indian Navy Sailors", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/11cAH1DvjEw9yPB07OwWU1Oc1JPHm-9W5?authuser=0"}}, {"id": "Indian Navy B.Tech", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1zjgm0nFjqZLRqMVYublO0NT_E7kdeKnW?authuser=0"}}, {"id": "Indian Army Technical", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1FfG9l_6MYq4EgcBaN_HpD-ZHCQUJW56Q?authuser=0"}}, {"id": "IMU CET", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1tqcR53A0ZV_9TFck7kAaOzLnVFyfOQIR?authuser=0"}}, {"id": "ICAR AIEEA-UG-PG", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1BHuaFWL5SeD53spQ71nlkRvFKWmi7uUh?authuser=0"}}, {"id": "CUET", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1RTyXl0vesqCeToymf-ZfLhXEqh8hxr6v?authuser=0"}}, {"id": "CLAT", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1NyI-5LKmG-KeQf9x2nZx2EHZ-_ArPnsA?authuser=0"}}, {"id": "BITSAT", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1t-D4uph_93qKQW2cqeSgrg-JBVDze34A?authuser=0"}}, {"id": "AILET", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/11gaLu0I2WgnaEUtzBoo6YTHATxsaARgl?authuser=0"}}, {"id": "AIEED", "height": 20, "fill": {"src": "https://lh3.googleusercontent.com/d/1uHJMBJOM4bN1JGsqATejCfl2jnPrWOPo?authuser=0"}}],
+"edges":[
+  {
+    "from": 12,
+    "to": "UCEED"
+  },
+  {
+    "from": 12,
+    "to": "TISS-BAT"
+  },
+  {
+    "from": 12,
+    "to": "NIFT"
+  },
+  {
+    "from": 12,
+    "to": "NID"
+  },
+  {
+    "from": 12,
+    "to": "NEST"
+  },
+  {
+    "from": 12,
+    "to": "NEET"
+  },
+  {
+    "from": 12,
+    "to": "NDA"
+  },
+  {
+    "from": 12,
+    "to": "NCHMCT JEE"
+  },
+  {
+    "from": 12,
+    "to": "NATA"
+  },
+  {
+    "from": 12,
+    "to": "JEE MAIN"
+  },
+  {
+    "from": 12,
+    "to": "IPMAT"
+  },
+  {
+    "from": 12,
+    "to": "Indian Statistical Institute Admission"
+  },
+  {
+    "from": 12,
+    "to": "Indian Navy Sailors"
+  },
+  {
+    "from": 12,
+    "to": "Indian Navy B.Tech"
+  },
+  {
+    "from": 12,
+    "to": "Indian Army Technical"
+  },
+  {
+    "from": 12,
+    "to": "IMU CET"
+  },
+  {
+    "from": 12,
+    "to": "ICAR AIEEA-UG-PG"
+  },
+  {
+    "from": 12,
+    "to": "CUET"
+  },
+  {
+    "from": 12,
+    "to": "CLAT"
+  },
+  {
+    "from": 12,
+    "to": "BITSAT"
+  },
+  {
+    "from": 12,
+    "to": "AILET"
+  },
+  {
+    "from": 12,
+    "to": "AIEED"
+  }
+]
+}
